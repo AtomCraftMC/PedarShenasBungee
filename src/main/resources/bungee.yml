@@ -1,0 +1,5 @@
+name: PedarShenas
+version: '${project.version}'
+author: Alijk
+main: ir.alijk.pedarshenas.PedarShenas
+description: PedarShenas system
